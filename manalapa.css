@@ -1,0 +1,14 @@
+*{
+          margin: 0;
+          box-sizing: border-box;
+}
+
+body{
+          background-color: rgb(202, 202, 236);
+}
+
+.zeķe{
+          background-color: aliceblue;
+          height: 100px;
+          border: 2px solid black;
+}
